@@ -1,1 +1,3 @@
-# coursera-deeplearning-ai
+# Coursera Deep Learning Specialization
+
+By Deeplearning.ai
